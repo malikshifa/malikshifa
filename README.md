@@ -48,27 +48,6 @@ $ status
 | **AI SEO Content Platform** | Filament CMS that generates SEO suggestions with the Google Gemini API as content is published. | 🔒 Client |
 | **Crypto Gaming Backend** | Rails game-logic APIs plus a Lumen payment microservice (Adapter pattern) talking over webhooks. | 🔒 Client |
 
-## 🏙️ Contribution City
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malikshifa/malikshifa/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
-</p>
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=malikshifa&hide_border=true&background=0F172A&ring=FF2D20&fire=7C3AED&currStreakLabel=FF2D20&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8B949E" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikshifa&bg_color=0f172a&color=c9d1d9&line=ff2d20&point=f8f8f8&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" width="100%"/>
-</p>
-
-## 🐍 Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malikshifa/malikshifa/output/github-snake-dark.svg" alt="contribution snake"/>
-</p>
-
 <div align="center">
 
 <a href="mailto:malikshifa151@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-malikshifa151%40gmail.com-ff2d20?style=for-the-badge&labelColor=0f172a" alt="contact"/></a>
