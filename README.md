@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:7c3aed,100:ff2d20&text=SHIFA%20MALIK&fontColor=f8f8f8&fontSize=34&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%C2%B7%20Laravel%20%C2%B7%20Rails&descAlignY=58&descSize=16&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b0b10,45:3d2436,100:c98a8f&text=SHIFA%20MALIK&fontColor=f5ede6&fontSize=34&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%C2%B7%20Laravel%20%C2%B7%20Rails&descAlignY=58&descSize=16&animation=fadeIn" alt="banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=FF2D20&center=true&vCenter=true&width=640&lines=Multi-tenant+SaaS+%C2%B7+database-per-tenant+isolation;Payments+%C2%B7+Stripe+%C2%B7+PayPal+%C2%B7+Apple+Pay+%C2%B7+Tabby+%C2%B7+More;~70%25+faster+APIs+through+query+tuning+%2B+caching;Image+%2B+video+moderation+%C2%B7+Sightengine+%C2%B7+Cloud+Vision;LLM+features+with+the+Google+Gemini+API" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=D4A857&center=true&vCenter=true&width=640&lines=Multi-tenant+SaaS+%C2%B7+database-per-tenant+isolation;Payments+%C2%B7+Stripe+%C2%B7+PayPal+%C2%B7+Apple+Pay+%C2%B7+Tabby+%C2%B7+More;~70%25+faster+APIs+through+query+tuning+%2B+caching;Image+%2B+video+moderation+%C2%B7+Sightengine+%C2%B7+Cloud+Vision;LLM+features+with+the+Google+Gemini+API" alt="typing"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/malik-shifa-545b581b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0f172a&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:malikshifa151@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ff2d20?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Open_to-Backend_roles-7c3aed?style=for-the-badge&labelColor=0f172a" alt="Open to backend roles"/>
+<a href="https://www.linkedin.com/in/malik-shifa-545b581b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-c98a8f?style=for-the-badge&labelColor=0b0b10&logo=linkedin&logoColor=f5ede6" alt="LinkedIn"/></a>
+<a href="mailto:malikshifa151@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-d4a857?style=for-the-badge&labelColor=0b0b10&logo=gmail&logoColor=f5ede6" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Open_to-Backend_roles-7a4a6b?style=for-the-badge&labelColor=0b0b10" alt="Open to backend roles"/>
 
 </div>
 
@@ -35,7 +35,7 @@ $ status
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,py,mysql,postgres,aws,docker,githubactions,react,ts,vue,tailwind,git&perline=8" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,py,mysql,postgres,aws,docker,githubactions,react,ts,vue,tailwind,git&perline=8&theme=dark" alt="tech stack"/>
 </p>
 
 ## 🚀 Builds
@@ -50,8 +50,8 @@ $ status
 
 <div align="center">
 
-<a href="mailto:malikshifa151@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-malikshifa151%40gmail.com-ff2d20?style=for-the-badge&labelColor=0f172a" alt="contact"/></a>
+<a href="mailto:malikshifa151@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-malikshifa151%40gmail.com-c98a8f?style=for-the-badge&labelColor=0b0b10" alt="contact"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0f172a,50:7c3aed,100:ff2d20&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0b0b10,45:3d2436,100:c98a8f&section=footer" alt="footer" width="100%"/>
 
 </div>
